@@ -10,7 +10,7 @@ Welcome to pykagsKangboLu's documentation!
 .. image:: https://img.shields.io/badge/badges-shields.io-brightgreen
         :target: https://shields.io/
 
-Pytho[D[A[B[Dckage
+Python Package
 
 To get started, check out the sections below:
 

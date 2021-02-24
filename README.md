@@ -2,7 +2,7 @@
 
 ![](https://github.com/KangboLu/pykagskangbolu/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/KangboLu/pykagskangbolu/branch/main/graph/badge.svg)](https://codecov.io/gh/KangboLu/pykagskangbolu) ![Release](https://github.com/KangboLu/pykagskangbolu/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/pykagskangbolu/badge/?version=latest)](https://pykagskangbolu.readthedocs.io/en/latest/?badge=latest)
 
-Pytho[D[A[B[Dckage
+Python Packaage
 
 ## Installation
 
